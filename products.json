@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Meera Black & White Georgette Kurta",
+    "price": "₹1,499.00",
+    "image": "images/product1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Zoya Hand-Embroidered Lucknowi Kurti",
+    "price": "₹1,799.00",
+    "image": "images/product2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Classic Anarkali with Chikan Work",
+    "price": "₹2,299.00",
+    "image": "images/product3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "White Straight Cut Cotton Kurta",
+    "price": "₹999.00",
+    "image": "images/product4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Peach Co-Ord Set with Mirror Embroidery",
+    "price": "₹2,499.00",
+    "image": "images/product5.jpg"
+  }
+]
